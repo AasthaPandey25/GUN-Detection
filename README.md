@@ -1,4 +1,4 @@
-# GUN-Detectio
+# GUN-Detection
 Git is a distributed version control system designed to handle projects of all sizes with speed and efficiency. It allows developers to track changes in their code, collaborate with others, and manage their project history effectively. Here's a concise description of Git:
 ### Key Features of Git:
 1. **Version Tracking:** Git keeps a detailed history of changes made to files, supporting both individual and collaborative development.
